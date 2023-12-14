@@ -1,0 +1,12 @@
+tqdm
+numpy
+scipy
+torch
+datasets
+transformers
+pandas
+sklearn
+seaborn
+wordcloud
+bertopic
+nltk
