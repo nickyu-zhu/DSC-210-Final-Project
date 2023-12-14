@@ -20,8 +20,10 @@ We use AG News dataset for our project, which can be downloaded on 🤗 HuggingF
 - `requirements.txt`: Python dependencies, using `pip install -r requirements.txt` to install.
 - `notebooks/text_preprocessing.ipynb`: Notebook for text preprocessing; following the steps in the notebook will save the preprocessed text to `./data` folder.
 - `notebooks/lsa.ipynb`: Notebook for running Latent Semantic Analysis (LSA).
-- `notebooks/lda.ipynb`: Notebook for running Latent Dirichlet Allocation (LDA); p.s. the LDA is not included in our final report.
+- `notebooks/lda.ipynb`: Notebook for running Latent Dirichlet Allocation (LDA); 
+    > p.s. the LDA is not included in our final report.
 - `notebooks/nmf.ipynb`: Notebook for running Non-negative Matrix Factorization (NMF).
 - `notebooks/bertopic.ipynb`: Notebook for running BERTopic.
 - `notebooks/basic_classifier.ipynb`: Notebook for running some basic classifiers, e.g., Logistic Regression(LR), Support Vector Machine(SVM), Naive Bayes(NB), and Neural Network(NN).
-- `notebooks/transformer_classifier.ipynb`: Notebook for running some transformer-based classifiers, e.g., BERT, RoBERTa, DART; p.s. the transformer-based classifiers are fine-tuned on 1 A100 GPU (80GB), for GPUs with less memory, you may need to reduce the batch size.
+- `notebooks/transformer_classifier.ipynb`: Notebook for running some transformer-based classifiers, e.g., BERT, RoBERTa, DART.
+    > p.s. the transformer-based classifiers are fine-tuned on 1 A100 GPU (80GB), for GPUs with less memory, you may need to reduce the batch size.
