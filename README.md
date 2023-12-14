@@ -1,7 +1,7 @@
 # DSC-210-Final-Project
 
 ## Project Description
-This repository contains code for the final project of DSC 210: Linear Algebra at UCSD, Fall 2023. The project is about topic modeling in NLP, and we implemented Latent Semantic Analysis (LSA), Latent Dirichlet Allocation (LDA), Non-negative Matrix Factorization (NMF), and BERTopic. We also implemented some basic classifiers and transformer-based classifiers for comparison.
+This repository contains code for the final project of DSC 210: Linear Algebra at UCSD, Fall 2023. The project is about topic modeling in NLP, and we implemented Latent Semantic Analysis (LSA), Non-negative Matrix Factorization (NMF), and BERTopic. We also implemented some basic classifiers and transformer-based classifiers for comparison.
 
 Instructed by Professor [Lily Weng](https://lilywenglab.github.io/)
 
