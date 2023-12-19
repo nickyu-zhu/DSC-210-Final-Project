@@ -7,7 +7,7 @@ Instructed by Professor [Lily Weng](https://lilywenglab.github.io/)
 
 ## Project Report
 
-The project report can be found [here](https://www.notion.so/Topic-Modeling-in-NLP-A-Linear-Algebra-Perspective-06f1c1fc34b24b429f9a4064510267b4)
+The project report can be found [here](https://sweet-vole-3e7.notion.site/Topic-Modeling-in-NLP-A-Linear-Algebra-Perspective-06f1c1fc34b24b429f9a4064510267b4).
 
 ## Project Structure/Contents
 
